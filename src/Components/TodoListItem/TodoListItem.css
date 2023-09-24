@@ -1,0 +1,13 @@
+li{
+    width: 80%;
+    align-items: center;
+    justify-content: center;
+    border: 1px solid #939697;
+    cursor: pointer;
+    background-color: #c5e1e6;
+    height: 50px;
+    margin-left: 20px;;
+    margin-bottom: 8px;
+    padding: 5px 10px;
+    display: flex;
+}
